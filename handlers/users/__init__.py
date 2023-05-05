@@ -1,7 +1,6 @@
 from . import help
 from . import start
-from . import instaDownloader
-from . import youtubeDownloader
+from . import instagram
+# from . import youtube
 from . import kontenthandlers
-# from . import idhandlers
 from . import echo

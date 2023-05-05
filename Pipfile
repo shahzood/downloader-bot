@@ -6,8 +6,8 @@ name = "pypi"
 [packages]
 aiogram = "~=2.25.1"
 environs = "~=9.5.0"
-pytube = "~=12.1.3"
 requests = "*"
+pytube = "~=12.1.3"
 
 [dev-packages]
 
